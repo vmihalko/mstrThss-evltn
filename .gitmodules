@@ -1,0 +1,3 @@
+[submodule "symbiotic"]
+	path = symbiotic
+	url = https://github.com/staticafi/symbiotic.git
