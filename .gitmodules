@@ -1,3 +1,6 @@
 [submodule "symbiotic"]
 	path = symbiotic
 	url = https://github.com/staticafi/symbiotic.git
+[submodule "ultimate"]
+	path = ultimate
+	url = https://github.com/ultimate-pa/ultimate.git
